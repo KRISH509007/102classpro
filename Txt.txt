@@ -1,0 +1,6 @@
+My Friend likes to take photos so i made a program.
+which will take his photos of him and upload it to dropbox.
+So He can choose and upload in social media!!!.. :D
+
+
+
